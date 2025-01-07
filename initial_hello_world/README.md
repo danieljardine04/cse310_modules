@@ -19,4 +19,4 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://www.youtube.com/watch?v=BB0gZFpukJU)
+* [Youtube](https://www.youtube.com/watch?v=BB0gZFpukJU)
